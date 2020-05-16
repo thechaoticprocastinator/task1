@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="minimum_password">password short</string>
+</resources>
